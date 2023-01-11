@@ -1,0 +1,10 @@
+{
+    "name": "com.parkinglotgames.tessellatedquads",
+    "displayName": "Tessellated Quads",
+    "version": "1.0.0",
+    "documentationUrl": "https://github.com/ParkingLotGames/Tessellated-Quads",
+    "changelogUrl": "https://github.com/ParkingLotGames/Tessellated-Quads/releases",
+    "licensesUrl": "https://github.com/ParkingLotGames/Tessellated-Quads/blob/master/LICENSE",
+    "description": "Quad models, triangulated radially to use with FastPostFX.",
+    "hideInEditor": false
+  }
